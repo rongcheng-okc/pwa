@@ -1,0 +1,19 @@
+{
+  "name": "RC's web app",
+  "short_name": "Try PWA to Desktop",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "description": "应用描述", 
+  "orientation": "natural",
+  "prefer_related_applications": false,
+  "theme_color": "#FFDF00",
+  "background_color": "green",
+  "icons": [
+     {
+        "src": "/image/basketball.png",
+        "sizes": "128x128",
+        "type": "image/png"
+     }
+  ],
+  "scope": "/"
+}

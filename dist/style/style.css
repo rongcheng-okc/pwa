@@ -1,0 +1,14 @@
+.img-contianer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.img-contianer img {
+  width: 100px;
+  height: 100px;
+}
+
+.title {
+  color: green;
+}
